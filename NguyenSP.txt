@@ -1,8 +1,4 @@
 nguyen
 dung
-<<<<<<< HEAD
 dmm
 
-=======
-dmm
->>>>>>> parent of 2b08a4c... moi xoa
